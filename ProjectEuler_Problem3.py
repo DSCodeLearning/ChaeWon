@@ -8,8 +8,7 @@ for i in range(2, num):
     rem = num % i
     if rem == 0:
         list1.append(i)
-
-m = 
+        
 for quo in list1:
     result = list1[m] % quo
     if result != 0:
