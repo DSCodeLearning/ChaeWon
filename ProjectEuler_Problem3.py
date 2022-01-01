@@ -1,4 +1,6 @@
 # 가장 큰 소인수 구하기
+# [220101] try1
+
 num = int(input("Enter number: "))
 
 list1 = []
